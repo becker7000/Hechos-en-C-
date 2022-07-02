@@ -1,0 +1,2 @@
+
+	 Escribiendo algo en un archivo, el monto es: 250.67
