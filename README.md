@@ -1,2 +1,2 @@
-# Hechos-en-C-
-Aquí subiré muchos ejercicios de ejemplos en C++
+# Hechos-en-C
+Aquí subiré muchos ejercicios de ejemplos en C
