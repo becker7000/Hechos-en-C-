@@ -1,0 +1,5 @@
+INSERT INTO  `diplojava`.`producto` VALUES(null,"Galleta Oreo","Galleta chocolate y vainilla",15.50);
+INSERT INTO  `diplojava`.`producto` VALUES(null,"Gansito","Pan horneado con chocolate",16.50);
+INSERT INTO  `diplojava`.`producto` VALUES(null,"Twinkies","Pan relleno sabor vainilla",15.50);
+INSERT INTO  `diplojava`.`producto` VALUES(null,"Criankies","hojuelas cubiertas de chocolate",15.50);
+INSERT INTO  `diplojava`.`producto` VALUES(null,"Cheetos","Fritura de maíz sabor queso",15.50);
